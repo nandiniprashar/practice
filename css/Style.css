@@ -1,0 +1,37 @@
+body{
+  font-family: "Montserrat", sans-serif;
+}
+div #main-menu{
+  z-index: 1;
+}
+.img{
+  z-index: 0;
+  float: left;
+  position: fixed;
+  top: 120px;
+  left: 0;
+}
+div#main-menu-navigation ul{
+  margin-left: 590px;
+  margin-top: -75px;
+}
+div#main-menu-navigation li{
+  display: inline;
+}
+div#main-menu-navigation li a{
+  text-decoration: none;
+  color: black;
+  margin: 15px;
+}
+img#PAV-Images{
+  height: auto;
+  width: 100%;
+  margin-top: 32px;
+}
+div#Luxury-Travel {
+  height: 250px;
+  width: 600px;
+  border-width: 10px;
+  border-radius: 4px;
+  background-color: #DEDAD3;
+}
